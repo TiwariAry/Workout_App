@@ -3,7 +3,7 @@
 
 Swolenormous is a sleek, React-based fitness application that revolutionizes how users discover and follow workout routines. With curated exercise lists and intuitive workout plans, it provides instant access to fitness guidance without the complexity of user accounts or tracking systems. Built with modern web technologies and deployed on AWS Amplify for lightning-fast performance.
 
-🌐 **Live App**: [Swolenormous](https://main.d3m6bvcacqklzr.amplifyapp.com/)  
+🌐 **Live App**: [Swolenormous](https://main.d3m6bvcacqklzr.amplifyapp.com)  
 <br/>
 
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/e47e992f-080b-4cf9-b52b-af04760b44de" />
@@ -256,7 +256,7 @@ export default defineConfig({
 
 ## 🤝 Contributing
 
-We welcome contributions to make Swolenormous even better!
+I welcome contributions to make Swolenormous even better!
 
 ### How to Contribute:
 1. Fork the repository
@@ -276,7 +276,8 @@ We welcome contributions to make Swolenormous even better!
 
 ## 📄 License
 
-
+This project is licensed under the [MIT License](https://github.com/TiwariAry/Workout_App/blob/main/LICENSE).  
+Feel free to fork, modify, and build on it.
 
 ---
 
